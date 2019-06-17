@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="conda-activate-fracs" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="conda" />
+      <option name="PARAMETERS" value="activate fracs" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
