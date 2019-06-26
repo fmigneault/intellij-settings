@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="USE_EXTERNAL_ANNOTATIONS" value="true" />
+  </JavaCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="120" />
     <option name="WRAP_ON_TYPING" value="1" />
