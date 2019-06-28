@@ -7,6 +7,13 @@
     <option name="WRAP_ON_TYPING" value="1" />
     <option name="SOFT_MARGINS" value="120,140" />
   </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
+    <option name="IF_BRACE_FORCE" value="1" />
+    <option name="DOWHILE_BRACE_FORCE" value="3" />
+    <option name="SOFT_MARGINS" value="120,140" />
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="RIGHT_MARGIN" value="120" />
     <option name="WRAP_ON_TYPING" value="1" />
