@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Control Flow/Replace Switch with If" />
+    <ignoreAction name="Python/Add type hint for variable" />
   </component>
 </application>
