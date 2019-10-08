@@ -10,7 +10,7 @@
   <component name="TodoConfiguration">
     <pattern icon="question" pattern="\btodo\b.*" />
     <pattern icon="important" pattern="\bfixme\b.*" />
-    <pattern useCustomColors="true" pattern=".*\bnotes*\b.*">
+    <pattern useCustomColors="true" pattern="\*?\b[\w\@]*note\b.*">
       <option name="FOREGROUND" value="977ab" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
