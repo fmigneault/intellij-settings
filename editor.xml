@@ -31,5 +31,9 @@
       <option name="EFFECT_COLOR" value="3c3f41" />
       <option name="ERROR_STRIPE_COLOR" value="c06500" />
     </pattern>
+    <pattern useCustomColors="true" pattern=".*@see\b.*">
+      <option name="FOREGROUND" value="629755" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
   </component>
 </application>
