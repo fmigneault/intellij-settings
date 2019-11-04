@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="groovy-2.5.8">
+    <library name="Groovy 2.5.8">
       <CLASSES>
         <root url="jar://$USER_HOME$/.sdkman/candidates/groovy/2.5.8/lib/groovy-ant-2.5.8.jar!/" />
         <root url="jar://$USER_HOME$/.sdkman/candidates/groovy/2.5.8/lib/multiverse-core-0.7.0.jar!/" />
