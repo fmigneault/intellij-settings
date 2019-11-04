@@ -25,7 +25,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="scala-sdk-2.11.0" type="Scala">
+    <library name="Scala SDK 2.11.0" type="Scala">
       <properties>
         <language-level>Scala_2_11</language-level>
         <compiler-classpath>
