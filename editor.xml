@@ -35,5 +35,10 @@
       <option name="FOREGROUND" value="629755" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
+    <pattern useCustomColors="true" pattern=".*warning\b.*">
+      <option name="FOREGROUND" value="c09519" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a8c023" />
+    </pattern>
   </component>
 </application>
